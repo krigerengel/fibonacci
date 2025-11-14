@@ -32,7 +32,7 @@ Editor original: Roberto Méndez Méndez
 Editor de esta versión: Ángel Gabriel Guerrero Díaz
 
 Created: 1 Nov 2025 (versión base)
-Edited: 9 Nov 2025 (versión explicada por Ángel)
+Edited: 11 Nov 2025 (versión explicada por Ángel)
 */
 
 import java.util.Hashtable;
